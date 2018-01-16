@@ -11,4 +11,4 @@
 #'   \item{y_attribute}{y attribute score, from 1 (worst) to 10 (best) in .01 increments}
 #' }
 #'
-"psc"
+"pasc"
